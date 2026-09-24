@@ -162,7 +162,8 @@ droit de définir des **directives post‑mortem**.
 - **Sans l'application** : tout membre peut aussi demander la suppression de son
   compte et de ses données, sans avoir besoin de réinstaller ou d'ouvrir
   l'application, par courriel à contact@mozaik973.fr (objet « Suppression de
-  compte »), ou via la [page web dédiée](supprimer-mon-compte). La demande peut être faite par toute
+  compte »), ou via la page web dédiée :
+  https://mozaik973.fr/supprimer-mon-compte.html. La demande peut être faite par toute
   personne disposant d'un compte, y compris si l'application a été
   désinstallée.
 - **Délai de traitement** : une demande par courriel ou par la page web est
